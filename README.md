@@ -20,8 +20,6 @@ To ensure the proper and legal use of the logos within this repository, please a
 
 ## Disclaimer
 
-This readme is provided for informational purposes only and does not constitute legal advice. It is your responsibility to ensure compliance with applicable copyright and trademark laws. The repository owner and contributors are not liable for any unauthorized use of the logos.
-
 By accessing and using the logos in this repository, you agree to abide by the terms outlined in this readme and any associated license or usage agreement.
 
 **Thank you for respecting the intellectual property rights of the logo owners.**
